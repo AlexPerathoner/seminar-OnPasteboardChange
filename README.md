@@ -1,3 +1,4 @@
+
 # OnPasteboardChange
 
 A SwiftUI View modifier that triggers a callback whenever the pasteboard changes. Works with UIKit and AppKit - perfect for cross-platform SwiftUI projects.
